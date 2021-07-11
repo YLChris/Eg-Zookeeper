@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../:\03-视频学习\ZooKeeper分布式专题与Dubbo微服务入门\j35xfq\imooc_code\imooc-zookeeper-starter\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
